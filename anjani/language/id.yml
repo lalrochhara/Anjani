@@ -1,7 +1,7 @@
 #region Main
 start-pm: |
   Hai!
-  Salam kenal, nama saya adalah **{}**.[](https://firebasestorage.googleapis.com/v0/b/baby-bawitlung-story.appspot.com/o/Image%20file%2FNew%20pp%20fid.png?alt=media&token=2df32c52-8095-4227-80d2-2a1ca822a7a6) Dihadirkan untuk membantu Anda dalam mengelola grup dengan mudah dan menyenangkan.
+  Salam kenal, nama saya adalah [**{}**.](https://firebasestorage.googleapis.com/v0/b/baby-bawitlung-story.appspot.com/o/Image%20file%2FNew%20pp%20fid.png?alt=media&token=2df32c52-8095-4227-80d2-2a1ca822a7a6) Dihadirkan untuk membantu Anda dalam mengelola grup dengan mudah dan menyenangkan.
   Silahkan kirim /help untuk melihat perintah yang tersedia.
 
   Jika ada pertanyaan atau masalah, silahkan bergabung dan diskusikan di [Support Group](https://t.me/missjennysupport)
@@ -10,7 +10,7 @@ start-pm: |
   Tertarik menggunakan saya dalam mengelola grup Anda?
   Silahkan klik tombol di bawah, untuk menambahkan saya ke grup Anda.
 help-pm: |
-  Hai salam kenal! Nama saya adalah **{}**.[](https://firebasestorage.googleapis.com/v0/b/baby-bawitlung-story.appspot.com/o/Image%20file%2FNew%20pp%20fid.png?alt=media&token=2df32c52-8095-4227-80d2-2a1ca822a7a6)
+  Hai salam kenal! Nama saya adalah [**{}**.](https://firebasestorage.googleapis.com/v0/b/baby-bawitlung-story.appspot.com/o/Image%20file%2FNew%20pp%20fid.png?alt=media&token=2df32c52-8095-4227-80d2-2a1ca822a7a6)
   Saya adalah bot manajemen grup dengan beberapa beberapa fitur yang bertujuan untuk membantu dalam mengelola grup Anda.
 
   Berikut adalah daftar yang tersedia untuk mendapatkan gambaran beberapa hal yang dapat saya lakukan.
