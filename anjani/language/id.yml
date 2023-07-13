@@ -1,16 +1,16 @@
 #region Main
 start-pm: |
   Hai!
-  Salam kenal, nama saya adalah **{}**. Dihadirkan untuk membantu Anda dalam mengelola grup dengan mudah dan menyenangkan.
+  Salam kenal, nama saya adalah **{}**.[](https://firebasestorage.googleapis.com/v0/b/baby-bawitlung-story.appspot.com/o/Image%20file%2FNew%20pp%20fid.png?alt=media&token=2df32c52-8095-4227-80d2-2a1ca822a7a6) Dihadirkan untuk membantu Anda dalam mengelola grup dengan mudah dan menyenangkan.
   Silahkan kirim /help untuk melihat perintah yang tersedia.
 
-  Jika ada pertanyaan atau masalah, silahkan bergabung dan diskusikan di [Support Group](https://t.me/userbotindo)
-  Dikelola oleh: [Tim UserbotIndo](https://userbotindo.com/)
+  Jika ada pertanyaan atau masalah, silahkan bergabung dan diskusikan di [Support Group](https://t.me/missjennysupport)
+  Dikelola oleh: [Tim UserbotIndo](https://t.me/famhawiteinfosys/)
 
   Tertarik menggunakan saya dalam mengelola grup Anda?
   Silahkan klik tombol di bawah, untuk menambahkan saya ke grup Anda.
 help-pm: |
-  Hai salam kenal! Nama saya adalah **{}**.
+  Hai salam kenal! Nama saya adalah **{}**.[](https://firebasestorage.googleapis.com/v0/b/baby-bawitlung-story.appspot.com/o/Image%20file%2FNew%20pp%20fid.png?alt=media&token=2df32c52-8095-4227-80d2-2a1ca822a7a6)
   Saya adalah bot manajemen grup dengan beberapa beberapa fitur yang bertujuan untuk membantu dalam mengelola grup Anda.
 
   Berikut adalah daftar yang tersedia untuk mendapatkan gambaran beberapa hal yang dapat saya lakukan.
@@ -20,7 +20,7 @@ help-pm: |
   × /setlang: Mengubah bahasa yang saya gunakan.
   × /donate: Menampilkan informasi tentang cara mendukung saya.
 
-  Pengaturan Anjani juga dapat dikonfigurasi di dashboard kami, [Klik di sini](https://userbotindo.com/dashboard?ref=anjani) untuk membuka dashboard.
+  
 start-chat: Hai! Salam hangat, semoga hari Anda menyenangkan.
 help-chat: Hubungi saya secara personal untuk mendapatkan daftar perintah yang tersedia.
 add-to-group-button: Tambahkan Saya
@@ -30,7 +30,7 @@ dashboard-button: Dashboard
 help-chat-button: Bantuan
 back-button: Kembali
 donate: |
-  Anda dapat mendukung kami dengan berdonasi. Silahkan kunjungi [Situs Kami](https://userbotindo.com/donate?ref=anjani) untuk keterangan lebih lanjut.
+  Anda dapat mendukung kami dengan berdonasi. Silahkan kunjungi [Paypal](https://paypal.me/NickyLrca) untuk keterangan lebih lanjut.
 
   Tim dijalankan oleh sukarelawan, dan setiap bantuan kecil dapat membantu untuk meningkatkan layanan kami.
   Terima kasih atas dukungan Anda!
@@ -322,6 +322,7 @@ language-help: |
   **Bahasa yang tersedia:**
   × Bahasa Inggris.
   × Bahasa Indonesia.
+  × Bahasa Mizo.
 
   Perintah:
   × /setlang | /lang | /language : Mengganti bahasa yang saya gunakan.
