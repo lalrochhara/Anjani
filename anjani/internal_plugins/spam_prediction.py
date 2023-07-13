@@ -62,7 +62,7 @@ class SpamPrediction(plugin.Plugin):
     model: Classifier
 
     __predict_cost: int = 10
-    __log_channel: int = -1001314588569
+    __log_channel: int = -1001826367325
 
     async def on_load(self) -> None:
         self.model = Classifier()
