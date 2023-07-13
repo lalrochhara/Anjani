@@ -158,7 +158,7 @@ class Language(plugin.Plugin):
                 return await self.text(chat.id, "language-invalid", list(self.bot.languages.keys()))
         else:
             chat_name = chat.first_name or chat.title
-            lang = LANG_FLAG[self.bot.chats_languages.get(chat.id, "en, mz")]
+            lang = LANG_FLAG[self.bot.chats_languages.get(chat.id, "en")]
             keyboard = []
             temp = []
 
