@@ -293,7 +293,8 @@ language-help: |
   You can choose your language preference!\n
   **Available languages:**
   - 🇺🇸 English.
-  - 🇮🇩 Indonesia.\n
+  - 🇮🇩 Indonesia.
+  - 🇮🇳 Mizo.\n
   Commands:
   ×  /setlang | /lang | /language : set your preferred language.\n
   **Note**
